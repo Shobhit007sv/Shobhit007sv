@@ -29,13 +29,7 @@ I believe in learning by doing, which is why I actively work on hands-on tasks, 
 ![](https://nirzak-streak-stats.vercel.app/?user=Shobhit007sv&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shobhit007sv&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-#🤝 Open to Collaborate
-I’m interested in contributing to:
 
-Cloud-related projects ☁️
-DevOps automation scripts ⚙️
-Beginner-friendly open-source repositories 🌱
-If you have a project where I can learn and contribute, I’d love to connect!
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Shobhit007sv&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
