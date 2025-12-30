@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+I’m a Computer Science student passionate about Cloud Computing and DevOps.
+Currently, I’m learning how to automate, monitor, and manage systems using Python, while building a strong foundation in cloud-native tools.
+I believe in learning by doing, which is why I actively work on hands-on tasks, real-world scripts, and open-source style workflows.
 <!--
 **Shobhit007sv/Shobhit007sv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,8 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 🌐 Socials:
-I’m a Computer Science student passionate about Cloud Computing and DevOps.
-Currently, I’m learning how to automate, monitor, and manage systems using Python, while building a strong foundation in cloud-native tools.
+
 
 I believe in learning by doing, which is why I actively work on hands-on tasks, real-world scripts, and open-source style workflows.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shobhit-verma-cs) 
